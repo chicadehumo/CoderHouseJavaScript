@@ -13,10 +13,6 @@ if (calculo <= 1500) {
     console.log("Tú nivel de consumo de calorías es: " + calculo + ". Estas en el promedio.")
 } else if (calculo >= 1501) {
     console.log("Tú nivel de consumo de calorías es: " + calculo + ". Estas por arriba del promedio.")
-} else if (calculo <= 999) {
-    console.log("Tú nivel de consumo de calorías es: " + calculo + ". Estas por debajo del promedio.")
-} else if (calculo <= 800) {
-    console.warn("Tú nivel de consumo de calorías es: " + calculo + ". Estas fuera del rango, talvés ingresaste algún dato incorrecto.")
 } else {
     console.warn("Tienes que ingresar un números")
 }
