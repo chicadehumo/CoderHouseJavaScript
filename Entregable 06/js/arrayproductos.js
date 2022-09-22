@@ -91,7 +91,7 @@ function cargarProductos(array) {
                     <p class="card-text">${producto.descripcion}</p>
                     <div class="btn-group">
                         <a class="btn btn-outline-dark" href="${producto.urlVer}" title="${producto.nombre}">Ver</a>
-                        <a id="${producto.id}" href="#" class="button btn btn-secondary" title="Agregar al carrito">Comprar</a>
+                        <a id="btn${producto.id}" class="button btn btn-secondary" title="Agregar al carrito">Comprar</a>
                     </div>
                 </div>
             </div>    
