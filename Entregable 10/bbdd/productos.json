@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1001,
+        "nombre": "Salvia, sahumerio",
+        "categoria": "HIERBAS",
+        "importe": "199",
+        "descripcion": "Amarre perfecto para rituales de re-conexión, limpieza y protección energética.",
+        "imagen": "/images/sahumerios.jpg",
+        "urlVer": "/tienda/productos/sahumerios/"
+    },
+    {
+        "id": 1002,
+        "nombre": "Vela Soja, Luna Nueva",
+        "categoria": "RITUALES",
+        "importe": "249",
+        "descripcion": "Activa tus sentidos con herramientas para el alma amorosa",
+        "imagen": "/images/maceta_cemento_plastico_reciclado.jpg",
+        "urlVer": "/tienda/productos/zafus-zabufon/"
+    },
+    {
+        "id": 1003,
+        "nombre": "kit: Aura en equilibrio",
+        "categoria": "RITUALES",
+        "importe": "1999",
+        "descripcion": "Conecta con corazón de la Pachamama a través del danzar con plantas.",
+        "imagen": "/images/maceta_cemento_plastico_reciclado.jpg",
+        "urlVer": "/tienda/productos/juego-basico-maceta-cemento/"
+    },
+    {
+        "id": 1004,
+        "nombre": "Otoño en calma, sahumerio",
+        "categoria": "HIERBAS",
+        "importe": "219",
+        "descripcion": "Activa tus sentidos con herramientas el alma amorosa",
+        "imagen": "/images/maceta_cemento_plastico_reciclado.jpg",
+        "urlVer": "/tienda/productos/juego-basico-maceta-cemento/"
+    },
+    {
+        "id": 1005,
+        "nombre": "Zafu y zabutón",
+        "categoria": "YOGA",
+        "importe": "409",
+        "descripcion": "Activa tus sentidos con herramientas el alma amorosa",
+        "imagen": "/images/zafus_zabufon.jpg",
+        "urlVer": "/tienda/productos/zafus-zabufon/index.html"
+    },
+    {
+        "id": 1006,
+        "nombre": "Shampoo sólido | Cero caspa",
+        "categoria": "CERO_WASTE",
+        "importe": "45",
+        "descripcion": "Activa tus sentidos con herramientas el alma amorosa",
+        "imagen": "/images/maceta_cemento_plastico_reciclado.jpg",
+        "urlVer": "/tienda/productos/juego-basico-maceta-cemento/"
+    },
+    {
+        "id": 1007,
+        "nombre": "Taller: Conectando con mi corazón",
+        "categoria": "TALLER",
+        "importe": "979",
+        "descripcion": "Activa tus sentidos con herramientas el alma amorosa",
+        "imagen": "/images/maceta_cemento_plastico_reciclado.jpg",
+        "urlVer": "/tienda/productos/juego-basico-maceta-cemento/"
+    },
+    {
+        "id": 1008,
+        "nombre": "Taller: Tejiendo un Japamala",
+        "categoria": "TALLER",
+        "importe": "899",
+        "descripcion": "Activa tus sentidos con herramientas el alma amorosa",
+        "imagen": "/images/maceta_cemento_plastico_reciclado.jpg",
+        "urlVer": "/tienda/productos/juego-basico-maceta-cemento/"
+    }
+]
