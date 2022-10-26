@@ -1,0 +1,9 @@
+node_modules
+public/.DS_Store
+.DS_Store
+src/.DS_Store
+src/_data/.DS_Store
+src/_data/content/.DS_Store
+src/_includes/.DS_Store
+src/_includes/template-parts/.DS_Store
+*/.DS_Store
